@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="widget__arrow" src="/image/猫咪.jpg" mode="aspectFill">
+  </image>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+  <view class="myfun">
+    <text>{{maininfo}} </text>
+  </view>
+</view>
